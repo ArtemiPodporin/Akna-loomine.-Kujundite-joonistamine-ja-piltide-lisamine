@@ -20,7 +20,7 @@ ristkülik=pygame.Rect(140,280,30,60)
 pygame.draw.rect(ekraani_pind,(14,35,44),ristkülik)
 
 
-
+"""
 import pygame
 pygame.init()
 ekraani_pind=pygame.display.set_mode((640,480))
@@ -32,7 +32,7 @@ ekraani_pind.blit(pilt,(640,480))
 
 pilt=pygame.image.load("zzzz.png")
 ekraani_pind.blit(pilt,(80,180))
-
+"""
 
 
 pygame.display.flip()
