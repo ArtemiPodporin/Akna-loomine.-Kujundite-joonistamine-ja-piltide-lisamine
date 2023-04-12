@@ -24,7 +24,7 @@
     <Compile Include="Akna_loomine._Kujundite_joonistamine_ja_piltide_lisamine.py" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="cc.png" />
+    <Content Include="zxc.png" />
     <Content Include="zzzz.png" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
